@@ -1,0 +1,3 @@
+prepress:
+  configuration:
+    build_command: yarn build:prod
